@@ -1,0 +1,12 @@
+.container{
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+  min-height: 400 px;
+  background-color:black ;
+}
+.container div{
+   height: 370 px;
+width: 3555 ;
+
+}
